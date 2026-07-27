@@ -4,7 +4,7 @@ package Striver_A2Z.BasicRecursion;
 
 import java.util.*;
 
-public class RecursionP_6 {
+public class RecursionP_6A {
     public static void sums(int i , int count){
         if(i<1){
             System.out.println(count);
