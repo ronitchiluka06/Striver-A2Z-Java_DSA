@@ -1,4 +1,4 @@
-package Striver_A2Z.BasicMaths;
+package BasicMaths;
 import java.util.*;
 
 public class GCDorHCF {
